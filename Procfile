@@ -1,0 +1,1 @@
+web: gunicorn bombrilSite.wsgi --log-file -
